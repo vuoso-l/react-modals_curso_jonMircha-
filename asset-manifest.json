@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-modals_curso_jonMircha/static/css/main.e86ea51d.css",
+    "main.js": "/react-modals_curso_jonMircha/static/js/main.0507a0ab.js",
+    "static/js/787.31ec50f9.chunk.js": "/react-modals_curso_jonMircha/static/js/787.31ec50f9.chunk.js",
+    "index.html": "/react-modals_curso_jonMircha/index.html",
+    "main.e86ea51d.css.map": "/react-modals_curso_jonMircha/static/css/main.e86ea51d.css.map",
+    "main.0507a0ab.js.map": "/react-modals_curso_jonMircha/static/js/main.0507a0ab.js.map",
+    "787.31ec50f9.chunk.js.map": "/react-modals_curso_jonMircha/static/js/787.31ec50f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e86ea51d.css",
+    "static/js/main.0507a0ab.js"
+  ]
+}
